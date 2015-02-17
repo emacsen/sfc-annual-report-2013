@@ -9,7 +9,6 @@ Drizzle. phpMyAdmin has been adopted by theousands of web hosting
 companies around the world. Learn more about phpMyAdmin at
 http://phpmyadmin.net
 
-
 Buildbot is a continuous integration tool that automates the
 build/test/release cycle that developers have to perform so
 often. Using Builtbot saves developers time and energy by providing a
@@ -26,10 +25,22 @@ about OpenTripPlanner at http://opentripplanner.org
 
 * Mifos Initiative
 
-Usually, Conservancy aims to be a project's long term home, but in
-the case of the Mifos Initiativw, we planned its graduation from the
-beginning, and are proud to say that this project has grown up and
-left the nest. 
+Mifos is an award-winning software project built around providing
+financial services to the poor. In February 2012, Conservancy
+assumed stewardship of the project. At the same time, Mifos project
+leaders started their own public charity, the Community for Open
+Source Microfinance (COSM), with the intent of growing COSM into a
+home for Mifos and other related program activities.  Conservancy served
+as Mifos' fiscal sponsor for nineteen months, and we shared our nonprofit
+and FLOSS community-building expertise with COSM's founders during their
+organization's early days.
+
+We are happy to report that in September of 2013, COSM reached a point
+of maturity and Conservancy and COSM worked together to transfer
+stewardship to the COSM organization, which has subsequently renamed
+itself the Mifos Initiative to match its flagship
+project. Conservancy is honored to have played a role in both Mifos
+and the Mifos Initiative's development.
 
 * Evergreen Conference
 
@@ -42,10 +53,10 @@ and developers.
 * Releases
 
 The Evergreen project announced two major releases - 2.4 and 2.5 -
-during FY13. The releases featured a responsive design for Evergreen’s
-public catalog, the ability for users to self-register for a library
-account, and many workflow improvements and new features for library
-staff using Evergreen.
+during fiscal year2013. These new releases featured a responsive
+design for Evergreen’s public catalog, the ability for users to
+self-register for a library account, and many workflow improvements
+and new features for library staff using Evergreen.
 
 * Hack-a-way
 
