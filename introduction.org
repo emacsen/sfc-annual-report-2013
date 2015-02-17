@@ -1,0 +1,35 @@
+
+* Opening
+
+Software Freedom Conservancy is a public charity that serves 
+as a home to Free, Libre, and Open Source Software (FLOSS) 
+projects. Our mission is to promote, improve, develop, and
+defend software freely-licensed for the public's benefit.  We 
+work towards that mission by serving as home to dozens of FLOSS 
+projects and providing an atmosphere that allows our projects
+to grow and flourish. 
+
+Conservancy acts as a fiscal sponsor to our member projects, which
+means that each project enjoys the long-sterm stability of a mature
+non-profit structure without having to build and maintain it themselves.  
+Conservancy's staff manage the organization and provide centralized
+business, legal, and administrative services -- freeing developers up to 
+focus on developing software.
+
+In addition to handling finances and donations, Conservancy
+provides mentorship and thought leadership on community building, 
+fundraising, and community governance.  We help our member projects
+manage the intangibles, and assist them in building up the 
+connective tissue that will keep their communities vibrant for years
+to come.  
+
+Conservancy and our member projects depend on public support to continue
+our program activities.  If you would like to support our work, visit
+http://sfconservancy.org/supporter/ and become a Conservancy Supporter.  
+If your employer would like to support Conservancy and our member projects,
+visit http://sfconservancy.org/donate/ for more information, or email us at
+donate@sfconservancy.org.  
+
+If you're part of a FLOSS project that would like to join Conservancy,
+go to http://sfconservancy.org/members/apply for more information.
+
