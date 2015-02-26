@@ -1,0 +1,241 @@
+*
+
+* Boost 
+
+- from Niall Douglas (4/26/14): 
+
+	seven students participated in Google Summer of Code 
+
+- from Boris Schäling (4/27/14): 
+
+Niall was a GSoC mentor last year and volunteered to be the GSoC admin this 
+year. That’s the first time that someone else than Andrew Sutton or me is 
+the main responsible for the GSoC program. And it’s nice to see that we 
+have more people who can take over responsibility here. 
+
+Last year 12 “Boost members” were registered as possible mentors. 
+7 of them mentored a student. This year I see 17 “Boost members” registered 
+with 9 of them acting as mentors. 4 of this year’s mentors were also 
+mentors last year. As Boost wasn’t selected as a GSoC org in 2012, I hope 
+to see a small GSoC community within Boost which is coming back every year 
+with enough ideas and motivation to make Boost participate in the program 
+again. 
+
+The library Asynchronous File I/O which has been added to the review queue 
+(see http://www.boost.org/community/review_schedule.html) was created in 
+last year’s GSoC program (Niall was the mentor). There is even a talk on 
+that library given by the student at C++Now (see http://sched.co/1fTO1YZ). 
+
+I’m not sure whether the other GSoC projects last year were as effective. 
+Some projects were about improving existing Boost libraries which makes me 
+think that these improvements were or will be added to those libraries. 
+From what I understand Boost.Trie for example is somewhat unfinished 
+(see https://github.com/BoostGSoC13/boost.trie and 
+http://article.gmane.org/gmane.comp.lib.boost.devel/249403). 
+
+We had three Boost delegates at the GSoC mentor summit last year (usually 
+every org may send only two; again Niall was one of them – he’s involved in 
+everything nowadays :). 
+
+- from Bryce Lelbach (4/29/14): 
+
+C++Now 2014 was the pilot year for the C++Now Student/Volunteer program. 
+The Student/Volunteer program seeks to inspire young programmers and 
+encourage their participation in C++ and open-source software development. 
+In the first year, we had 15 applications, and accepted seven. We received 
+applications from 3 continents and 5 countries. 
+
+The 2013 Student/Volunteers were a diverse group: 
+
+- 1 High Schooler, 3 Undergraduate Students (2 CS, 1 Math), 1 Masters 
+  Candidate (CS) and 2 PhD Candidates (both CS). 
+- 5 Americans (4 native citizens), 1 Polish, 1 Canadian. 
+- Two Student/Volunteers gave talks at C++Now 2013. 
+
+Volunteers were asked to write trip reports documented their experience. 
+Excerpts: 
+
+"Attending has truly been one of the most inspirational moments of my life. 
+I had the opportunity to learn, socialize and have a great time in general. 
+I hope to attend this conference yearly now and make a lasting impact in 
+the computer science community." - Grant Mercer. 
+
+"All the talks were thought provoking, serving to further my understanding 
+of the capabilities of C++ as well as to make me aware of how much there is 
+to be learned." - Michael LeSane. 
+
+"All of the attendees had knowledge to share. Although the talks can be 
+seen online, nothing can compare to being surrounded by over a hundred C++ 
+enthusiasts." - Alexander Duchene. 
+
+"I learned a lot about C++ that I thought I already knew, met a lot of cool 
+and knowledgeable people, and more than anything, returned with a new 
+confidence and appreciation for the language." - Aakash Goel. 
+
+** Buildbot 
+
+- from Dustin Mitchell (4/26/14): 
+
+Buildbot has not been as active organizationally as I'd hoped, but we 
+do have a few items: 
+ 	- Released Buildbot-0.8.8 in August 
+	 - Mentored two students in GSoC 2013 
+
+** Darcs
+
+- from Eric Kow (5/5/14):
+
+I think we participated in a couple of Google Summer of Code projects
+
+* http://darcs.net/GSoC/2013-BetterRecord
+The objective of this project is to improve the darcs record command implementing several options.
+
+The most complicated part of Darcs is, arguably, the patch handling core. However, the task of creating patches has received less attention. The command record creates patches, based on the changes that are present in the working copy. It proposes the user to record changes based on diffing the pristine and the working copy.
+Diffing two given files can produce various correct outputs, depending on the algorithm used. The standard diff algorithm (used in darcs and many other places) has been criticized to sometimes produce counterintuitive diffs. We would like to try out the “patience diff” algorithm(Issue 346), which seems to produce more interesting chunks when used on source code. One downside of patience diff is that it may be slower than classic diff, so performance will have to be evaluated.
+Moreover, just as the existing flag –look-for-adds proposes adding unversioned files to the new patch, we could use a –look-for-moves flag, which would be handful when one wants to record a file move after having done the move, ie, without using darcs move(Issue 642). Another cool flag would be –look-for-replaces, which would detect token renaming when one forgets about using darcs replace(Issue 2209).
+If time allows, a –provide-primitive-patches would be useful for darcs to be called by another program that provides the changes to record. For instance, a web interface providing a simple on-line code edit feature a la GitHub.
+
+
+* http://darcs.net/GSoC/2013-Darcsden
+The goal of this project is to increase the functionality of Darcsden. Darcsden is an open source repository hosting platform for darcs, written in Haskell. The main features are authentication from Github/OpenID, Password Recovery, Editing repository files online, and Comparison between a repository and its forks.
+
+The latter is work on making http://hub.darcs.net better.
+
+** Inkscape 
+
+- from Bryce Harrington (5/2/14):
+
+* Dec 2012 saw the 0.48.4 release
+  http://inkscape.org/en/news/2012/12/22/inkscape-community-announces-0484-release/
+
+After quite a while since our last announced release (sorry about that, there was a lot of confusion surrounding it, and I fully accept responsibility for that), the Inkscape Community is proud to announce that Inkscape 0.48.4 is out. This is our fourth bug fix release for 0.48 and since we won't count the last one, it contains ~120 bug fixes to improve security, stability, and functionality on all platforms since 0.48.2. Check out the 0.48.3 release notes & 0.48.4 release notes for brief summaries of some of the fixes and improvements, or the 0.48.3 milestone page & 0.48.4 milestone page for the full lists of closed bug reports, or just jump right to downloading your package for Windows or Linux.
+
+* Inkscape had 5 GSoC students
+  http://inkscape.org/en/news/2013/05/28/5-inkscape-students-confirmed-participate-gsoc2013/
+
+This summer 5 students will be working with us on Inkscape within Google Summer of Code 2012 program.
+1. Arshdeep Singh: interactive tool for recoloring artwork. 
+2. Matthew Petroff: refactoring and improving units support. 
+3. Sebastian Götte: electronics CAD support (mostly improving Connector tool and symbols). 
+4. Slagvi: a new dialog to create new documents from templates. 
+5. Vinícius dos Santos Oliveira: a new way to vectorize pixelized images, based on a SIGGRAPH 2011 paper. 
+* Most of the year focused on development work towards what will be
+  released as 0.91 in 2014.  Tons of new features were added, and the
+  entire underlying renderer was switched out and replaced by Cairo.
+  http://inkscape.org/en/news/2013/12/19/inkscape-049-will-now-be-inkscape-091/
+
+* We attended the Libre Graphics Meeting
+  http://inkscape.org/en/news/2014/04/12/inkscape-at-the-libre-graphics-meeting/
+The Inkscape team at LGM was comprised of nine people: Tavmjong Bah, Joakim Verona, Krzysztof Kosiński, Gémy Cédric, Sirko Kemter, Elisa de Castro Guerra, Ryan Lerch, The Adib and Martin Owens. The good attendance of Inkscape people was in part due to the generous contribution by the Inkscape Project helping pay for members to attend the event.
+The Inkscape Meeting
+A meeting was held on the third day, in the morning and directly after vital consumption of coffee and tea. A medium sized university meeting room with white tables and chairs in a large square configuration was organised in advanced to host the meeting.
+Tavmjong chaired the meeting and a rough agenda was put together about different areas of the project to talk about. These are the highlights
+Efforts will be made to organise Inkscape's diverse resources for development and user documentation into fewer locations to reduce fragmentation. 
+More frequent release schedules with predictable cycles are needed to keep users up to date with new features in Inkscape. 
+Better web technologies to publish content and translate it are needed and will be developed into the new django website. 
+Stimulation by funding developers was considered and the project is looking into ways of providing ways to contribute through subscriptions and/or single payment project fundraising. 
+A library of extensions and other add-ons for Inkscape is required and easy ways to install them. This to help extension writers publish their work more quickly. 
+Many other technical topics were covered which can be followed on the Inkscape Mailing list report. 
+Other Items
+On Wednesday Tavmjong gave a talk about the process of developing SVG2 with the W3C working group and the new features in SVG2 we can expect. As well as some informal questions during the week from Inkscape developers interested in the new capabilities of SVG2.
+On Thursday Martin ran a small testing group of users to list some of their highest rated concerns for Inkscape and especially issues with design. Some of these issues were then patched ready for the next release.
+On Friday, Ryan gave an in depth tutorial of advanced uses of live path effects to produce some stunning artistic results with Inkscape. These should appear as videos on the tutorials page.
+Many demonstrations of Inkscape's existing capabilities were done in the hacking space throughout the week.
+
+** phpMyAdmin 
+
+- from Michal Čihař (4/24/14): 
+
+The biggest change in this FY was probably releasing of version 4.0.0, 
+what is the first version not using ancient technology of HTML frames: 
+
+https://sourceforge.net/p/phpmyadmin/news/2013/05/phpmyadmin-400-is-released/ 
+
+Also we've accomplished to join the Conservancy :) 
+
+We've made a team meeting at DebConf: 
+
+http://www.phpmyadmin.net/home_page/images/debconf-2013/debconf-2013-med.jpg 
+
+Currently released under CC BY-SA 3.0, but I'm fine to change it to 
+anything reasonable. Also in case you will need higher resolution, just 
+let me know. 
+
+** Squeak 
+
+- from Chris Muller (1/27/15): 
+
+One highlight of the Squeak project during FY2013 was the mention of 
+Tim Rowledge's great work on Eben Upton in his blog about the 
+performance improvements coming to Scratch on the Rasberry Pi[1]. 
+Whether for Scratch on the Rasberry Pi, Etoys on the OLPC, or PIC 
+micro-code controlling miniature submarine drones, the ability to 
+scale to small (and inexpensive) hardware continues to be a priority 
+of the Squeak project. 
+
+[1] -- http://www.raspberrypi.org/archives/5742
+
+- from Tim Rowledge (7/8/14):
+ - Squeak release 4.5 with the initial alpha implementation of Environments, a new name space system
+- Jenkins-based automated builds and testing of the Squeak image for continuous integration and testing.
+- RaspberryPi optimised and improved 'Scratch' system released (see http://www.raspberrypi.org/archives/5742) and featured at Smalltalk Industry Council '13 in Phoenix, and at Think'13 in Santa Cruz.
+- 'State of Squeak' talk at FOSDEM '13 in Brussels ( http://tinyurl.com/p2ko4pe)
+- New memory system development to further improve on the performance and functionality (e.g. segmented memory growth and pinning) of the Cog VM.
+Sugar Labs
+- from Walter Bender (5/17/14):
+
+Sugar Labs continues to reach children with Free/Libre Software tools for learning. Our best estimate is that more than 3 million children worldwide are using Sugar. There have been more than 10 million downloads from our "app store". And more than 1/2 million visits to our download page for running Sugar in a virtual machine or on a Live USB image.
+
+On the technical front, we made strides in making JavaScript/HTML:5 a first class programming environment for Sugar while we continue to work closely with the Fedora and GNOME upstream communities. We release Sugar 100 and are in string freeze for Sugar 102. It is worth noting that >30% of the patches in our new release come from Sugar users: the children themselves.
+
+Google Summer of Code and Google Code In remain important programs for attracting new contributors.
+
+Finally, we got a grant from Tip Advisor to promote the use of Turtle Art (one of the programming environments for Sugar) and to do more i18n work in indigenous languages. To date we have held 8 Turtle Art Days -- the most recent in Kathmandu -- for hundreds of children and teachers and have a number of new i18n initiatives as a result.
+
+Note: I have attached what I think is a really telling photo: kids programming. I am the photographer so feel free to use the photo for whatever purposes suit the needs of the conservancy (CC by 4.0).
+
+
+SWIG 
+
+- from William Fulton (4/25/14): 
+
+The focus of the year was the development of a major new release for 
+filling in the missing gaps in C++ features. Version 3.0.0 includes support 
+for nested classes as well as the new C++11 standard. 
+
+Although the above doesn't sound very exciting to the non-technical reader, 
+it is a major achievement as the new C++ standard has nearly doubled in 
+length the specification for what was already an excessively complex 
+language! 
+
+Note that the release date for 3.0.0 (16 Mar 2014) was actually just 
+outside the year, but I'd rather see it included in this year where the 
+work was actually done. 
+
+** Wine
+
+- From Alexandre Julliard (5/18/14):
+
+For Wine, the main highlight would be the Wine 1.6 release in July 2013, which represents the results of 16 months of developement. The announcement is at http://www.winehq.org/announce/1.6
+
+This release represents 16 months of development effort and around
+10,000 individual changes. The main highlights are the new Mac driver,
+the full support for window transparency, and the new Mono package for
+.NET applications support.
+
+It also contains a lot of improvements across the board, as well as
+support for many new applications and games. 
+
+
+The main highlights of the release are the new native Mac driver, the
+support for window transparency, and the new built-in Mono package for
+.NET applications support.
+
+Like last year, we also participated in FOSDEM this year, where there
+was an interesting presentation of the support for the Silverlight
+plugin in Linux browsers, and a demonstration of the upcoming Android
+driver, including support for running Windows binaries on ARM devices.
+
+Some articles about it:
+http://www.phoronix.com/scan.php?page=news_item&px=MTYwNTA
+http://www.phoronix.com/scan.php?page=news_item&px=MTU5ODU
