@@ -13,21 +13,25 @@ well as the greater Free and Open Source software community.
 
 * Boost 
 
-In 2013, Boost released both version 1.54 and 1.55 of their powerful
-C++ library collection that lie at the core of many Free and Open
-Source software programs. These new releases included a new
-Asyncronous File I/O library, as well as an extensive list of new
-libraries.
+Boost is a C++ library collection that contains algorithms for many
+types of applications. Boost lies at the core of many Free and Open
+Soruce software programs. In 2013, Boost released two new versions
+of their software and included features such as a new Asyncronous File
+I/O library as well as extensions to many of their existing libraries.
 
-** Buildbot 
+* Buildbot 
+
+Buildbot is a continious integration software for the automation of
+the compile/test/deployment steps involved in software development.
+In August of 2013, Buildbot release a new version of their software
+(release 0.8.8) which added a number of bug fixes and general
+improvements.
 
 In August of 2013, Buildbot released version 0.8.8 of its popular
 build/test/deployment software system which allows for software
 developers to more easily integrate their development system.
 
-** Darcs
-
-** Darcs
+* Darcs
 
 - from Eric Kow (5/5/14):
 
