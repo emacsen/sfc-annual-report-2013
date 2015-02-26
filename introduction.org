@@ -25,11 +25,11 @@ to come.
 
 Conservancy and our member projects depend on public support to continue
 our program activities.  If you would like to support our work, visit
-http://sfconservancy.org/supporter/ and become a Conservancy Supporter.  
+https://sfconservancy.org/supporter/ and become a Conservancy Supporter.  
 If your employer would like to support Conservancy and our member projects,
 visit http://sfconservancy.org/donate/ for more information, or email us at
 donate@sfconservancy.org.  
 
 If you're part of a FLOSS project that would like to join Conservancy,
-go to http://sfconservancy.org/members/apply for more information.
+go to https://sfconservancy.org/members/apply for more information.
 
