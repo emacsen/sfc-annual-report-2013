@@ -40,11 +40,19 @@ currently offers several features like authentication from
 Github/OpenID, password recovery, online repository file editing, and
 comparisons between a repository and its forks.
 
+* Evergreen
+
+The Evergreen project announced two major releases - 2.4 and 2.5 -
+during FY2013. These new releases featured a responsive
+design for Evergreen’s public catalog, the ability for users to
+self-register for a library account, and many workflow improvements
+and new features for library staff using Evergreen.
+
 * Inkscape
 
 Inkscape is an Open Source vector graphics editor similar to Adobe
 Illustrator or Corel Draw. What sets Inkscape apart is its use of
-Scalable Vector Graphics (SVG) as its native format. In 2013 Inkscape
+Scalable Vector Graphics (SVG) as its native format. In FY2013, Inkscape
 made significant improvements to the security, stability and
 functionality of its software including improvements to its CAD
 support, document template support, vectorizing pixelized images and
