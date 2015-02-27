@@ -34,17 +34,25 @@ Darcs is an Open Source, cross platform version control system that
 focuses on changes, rather than snapshots, which allows for a freer
 and more streamlined approach to version control.
 
-In 2013, the Darcs team announced the Darcsden project, an Open Source
+In FY2013, the Darcs team announced the Darcsden project, an Open Source
 repository hosting platform for Darcs, written in Haskell. It
 currently offers several features like authentication from
 Github/OpenID, password recovery, online repository file editing, and
 comparisons between a repository and its forks.
 
+* Evergreen
+
+The Evergreen project announced two major releases - 2.4 and 2.5 -
+during FY2013. These new releases featured a responsive
+design for Evergreen’s public catalog, the ability for users to
+self-register for a library account, and many workflow improvements
+and new features for library staff using Evergreen.
+
 * Inkscape
 
 Inkscape is an Open Source vector graphics editor similar to Adobe
 Illustrator or Corel Draw. What sets Inkscape apart is its use of
-Scalable Vector Graphics (SVG) as its native format. In 2013 Inkscape
+Scalable Vector Graphics (SVG) as its native format. In FY2013, Inkscape
 made significant improvements to the security, stability and
 functionality of its software including improvements to its CAD
 support, document template support, vectorizing pixelized images and
@@ -53,15 +61,15 @@ improvements to the visual elements of the software.
 * phpMyAdmin
 
 phpMyAdmin is a web interface to several popular database systems
-including mySQL, MariaDB and Drizzle. In 2013, Conservancy welcomed
-phpMyAdmin to its list of sponsored projects. They also released a new
-version of their software which included a significant improvement to
+including mySQL, MariaDB and Drizzle. In FY2013, Conservancy welcomed
+phpMyAdmin to its list of sponsored projects. phpMyAdmin also released a 
+new version of their software which included a significant improvement to
 their web interface.
 
 * Squeak
 
 Squeak is a full featured programming environment based on the
-Smalltalk programming language. In 2013 Scratch made a number of
+Smalltalk programming language. In FY2013 Scratch made a number of
 improvements to its design to allow it to run more easily on low
 powered devices such as the Raspberry Pi, OPLC or PIC
 microcontrollers. By focusing on small, low powered devices, Scratch
@@ -76,7 +84,7 @@ especially for children, Sugar's estimated three million users
 worldwide are offered an alternative to traditional “office-desktop”
 software.
 
-In 2013, Sugar Labs made strides in making JavaScript/HTML5 a first
+In FY2013, Sugar Labs made strides in making JavaScript/HTML5 a first
 class programming environment while continuing to work closely with
 the Fedora and GNOME upstream communities. Over 30% of the patches in
 their newest release come directly from Sugar users: the children
@@ -87,7 +95,7 @@ themselves.
 SWIG is a software development tool that connects programs written in
 low level languages like C and C++ with a variety of high-level
 programming languages such as as Javascript, Perl, PHP, Python, Tcl
-and Ruby. In 2013 the SWIG team released version 3.0.0, which included
+and Ruby. In FY2013 the SWIG team released version 3.0.0, which included
 better C++ support, support for the new C++11 standard as well as
 nested classes.
 
