@@ -6,16 +6,16 @@ participation programs such as Google Summer of Code, which encourages
 student involved in Free and Open Source software development, as well
 as C++Now, which encourages involvement in the C++ community. Boost,
 Buildbot and Inkscape all participated in Google Summer of Code, with
-well over twenty students participating. Boost also participated in
-C++Now, with seven students across 5 countries. Conservancy supports
-these efforts to bring students into our member projects, as well as
-the greater Free and Open Source software community.
+well over twenty students participating. Boost also funded seven students
+from five different countries to participate in Boost's C++ Now Conference. 
+Conservancy supports these efforts to bring students into our member 
+projects, as well as the greater FLOSS community.
 
 * Boost
 
 Boost is a C++ library collection that contains algorithms for many
-types of applications. Boost lies at the core of many Free and Open
-Source software programs. In 2013, Boost released two new versions of
+types of applications. Boost lies at the core of many FLOSS software 
+programs. In FY2013, Boost released two new versions of
 their software and included features such as a new Asynchronous File
 I/O library as well as extensions to many of their existing libraries.
 
