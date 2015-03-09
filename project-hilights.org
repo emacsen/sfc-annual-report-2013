@@ -69,12 +69,14 @@ their web interface.
 * Squeak
 
 Squeak is a full featured programming environment based on the
-Smalltalk programming language. In FY2013 Scratch made a number of
+Smalltalk programming language. In FY2013, Squeak made a number of
 improvements to its design to allow it to run more easily on low
 powered devices such as the Raspberry Pi, OPLC or PIC
-microcontrollers. By focusing on small, low powered devices, Scratch
-will be better able to work in educational environments with embedded
-processors or robots.
+microcontrollers.  These improvements allowed Squeak developers to port
+the Scratch codebase to Squeak, bringing imporved performance to 
+Raspberry Pi users in particular.  By focusing on small, low powered 
+devices, Squeak will be better able to work in educational environments 
+with embedded processors or robots.
 
 * Sugar Labs
 
