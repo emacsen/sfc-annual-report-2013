@@ -23,7 +23,7 @@ network analysis and prediction modeling, allowing for simulations
 which can be used for design or emergency preparedness. Learn more
 about OpenTripPlanner at http://opentripplanner.org
 
-* Mifos Initiative
+* Conservancy and COSM Announce Mifos Initiative
 
 Mifos is an award-winning software project built around providing
 financial services to the poor. In February 2012, Conservancy
