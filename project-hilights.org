@@ -48,6 +48,13 @@ design for Evergreen’s public catalog, the ability for users to
 self-register for a library account, and many workflow improvements
 and new features for library staff using Evergreen.
 
+Evergreen also held a developer Hack-a-Way in Grand Rapids, Michigan in 
+September 2013. During the Hack-a-Way, Evergreen developers made big
+steps in building a more responsive public web catalog, specifically
+with support for more mobile devices in mind. The developer community
+also began plans to move Evergreen from a XULRunner-based application
+to a web application.
+
 * Inkscape
 
 Inkscape is an Open Source vector graphics editor similar to Adobe
