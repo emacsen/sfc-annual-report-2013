@@ -23,6 +23,28 @@ network analysis and prediction modeling, allowing for simulations
 which can be used for design or emergency preparedness. Learn more
 about OpenTripPlanner at http://opentripplanner.org
 
+* Conservancy Launches NPO Accounting Initiative
+
+In May 2013, Conservancy launched our NPO Accounting Initiative, an effort 
+to spearhead the development of a user-friendly accounting system for non-
+profit organizations based solely on FLOSS.  Our dream is to offer 
+non-profits a viable FLOSS alternative, and to enable the charitable sector 
+to reallocate millions of dollars currently spent on propietary accounting 
+software back towards program activities that benefit the public.  
+Recognizing that this will be a multi-year initiative, given our resources, 
+we launched a fundraiser to fund our work.  As a result, we were able to 
+successfully complete an initial survey of existing FLOSS systems designed 
+for for-profit accounting to determine which codebase, if any, was suitable 
+to serve as the foundation for our initiative.  
+
+We're currently looking to raise additional money to launch a coordinated 
+FLOSS development effort to create a system for all non-profits to use.  
+Resources permitting, our next step will be to improve the FLOSS system
+selected in the initial phase to create a basic accounting system suitable 
+for small-to-medium sized USA-based non-profit organizations -- including 
+fiscal sponsors like Conservancy.  For more information about Conservancy's
+NPO Accounting initiative, visit https://sfconservancy.org/npoacct/.
+
 * Conservancy and COSM Announce Mifos Initiative
 
 Mifos is an award-winning software project built around providing
