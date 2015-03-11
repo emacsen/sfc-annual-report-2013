@@ -62,11 +62,4 @@ suite, hosted Selenium Conference 2013 in Boston, Massachusetts on June 10-
 over 500 attendees from all over the world to network, attend workshops,
 and learn more about the project. 
 
-* Evergreen Hack-a-way
 
-The Evergreen project held a developer hack-a-way in Grand Rapids,
-Michigan in September 2013. During the hack-a-way, developers made big
-steps in building a more responsive public web catalog, specifically
-with support for more mobile devices in mind. The developer community
-also began plans to move Evergreen from a XULRunner-based application
-to a web application.
