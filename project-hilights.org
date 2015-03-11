@@ -6,16 +6,16 @@ participation programs such as Google Summer of Code, which encourages
 student involved in Free and Open Source software development, as well
 as C++Now, which encourages involvement in the C++ community. Boost,
 Buildbot and Inkscape all participated in Google Summer of Code, with
-well over twenty students participating. Boost also participated in
-C++Now, with seven students across 5 countries. Conservancy supports
-these efforts to bring students into our member projects, as well as
-the greater Free and Open Source software community.
+well over twenty students participating. Boost also funded seven students
+from five different countries to participate in Boost's C++ Now Conference. 
+Conservancy supports these efforts to bring students into our member 
+projects, as well as the greater FLOSS community.
 
 * Boost
 
 Boost is a C++ library collection that contains algorithms for many
-types of applications. Boost lies at the core of many Free and Open
-Source software programs. In 2013, Boost released two new versions of
+types of applications. Boost lies at the core of many FLOSS software 
+programs. In FY2013, Boost released two new versions of
 their software and included features such as a new Asynchronous File
 I/O library as well as extensions to many of their existing libraries.
 
@@ -48,6 +48,13 @@ design for Evergreen’s public catalog, the ability for users to
 self-register for a library account, and many workflow improvements
 and new features for library staff using Evergreen.
 
+Evergreen also held a developer Hack-a-Way in Grand Rapids, Michigan in 
+September 2013. During the Hack-a-Way, Evergreen developers made big
+steps in building a more responsive public web catalog, specifically
+with support for more mobile devices in mind. The developer community
+also began plans to move Evergreen from a XULRunner-based application
+to a web application.
+
 * Inkscape
 
 Inkscape is an Open Source vector graphics editor similar to Adobe
@@ -69,12 +76,14 @@ their web interface.
 * Squeak
 
 Squeak is a full featured programming environment based on the
-Smalltalk programming language. In FY2013 Scratch made a number of
+Smalltalk programming language. In FY2013, Squeak made a number of
 improvements to its design to allow it to run more easily on low
 powered devices such as the Raspberry Pi, OPLC or PIC
-microcontrollers. By focusing on small, low powered devices, Scratch
-will be better able to work in educational environments with embedded
-processors or robots.
+microcontrollers.  These improvements allowed Squeak developers to port
+the Scratch codebase to Squeak, bringing imporved performance to 
+Raspberry Pi users in particular.  By focusing on small, low powered 
+devices, Squeak will be better able to work in educational environments 
+with embedded processors or robots.
 
 * Sugar Labs
 

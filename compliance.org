@@ -1,12 +1,12 @@
 * Supporting Our Projects
 
-The Software Freedom Conservancy is dedicated to the cause of Free
-and Open Source Software. Some of our member projects use a license
-such as the GNU General Public license, which has a reciprocal
+Software Freedom Conservancy is dedicated to the cause of FLOSS. Some of 
+our member projects release their software under a "copyleft" license such 
+as the GNU General Public license, which has a reciprocal
 agreement to pass along changes made using the same terms as the
-original license, while other project use more permissive licenses,
-such as the Apache license, which does not have the same
-requirements. Each project is free to choose the license that they
+original license.  Other member projects select more permissive licenses,
+such as the Apache license, which do not have the same requirements. Each 
+member project is free to choose the license that they
 feel fits their project, and Conservancy works to defend that choice
 by ensuring that each of our projects' licenses are adhered to.
 
@@ -15,14 +15,20 @@ OpenTripPlanner to its list of member projects, meaning that each of
 these projects will gain the benefit of Conservancy status, including
 license enforcement.
 
-As an example of the type of enforcement that Conservancy
-occassionally needs to engage in, in August of 2013, Conservancy's GPL
-Compliance Project for Linux Developers project announced its role in
-assisting Samsung with a GPL compliance issue related to the Linux
-kernel and the exFAT filesystem driver. Conservancy is proud to
-announce that this issue was able to be resolved collaboratively with
-Samsung. 
+Conservancy receives hundreds of reports of potential FLOSS license
+violations from the public every year.  We do our best to investigate
+each report, confirm its veracity based on publicly-available information,
+and engage those who we have confirmed are distributing our member 
+projects' software without complying with their chosen license.  
+Many of our conversations with such distributors are amicable and result in
+the distributor coming into compliance with the FLOSS license in question, 
+but we rarely discuss them in public at the distributors' request.  
 
-Conservancy stands behind the Free/Open Source Software community and
-is pleased that we could represent our member project and come to a
-positive conclusion in this matter.
+As a rare exception to this rule, in August of 2013, Conservancy publicly 
+announced our role in assisting Samsung with a GPL compliance issue related 
+to the Linux kernel and the exFAT filesystem driver. Conservancy and our 
+GPL Compliance Project for Linux Developers are proud to have been able to 
+resolve the issue collaboratively with Samsung, and we appreciate Samsung's
+openess about the matter. 
+
+
