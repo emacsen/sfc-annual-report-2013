@@ -1,4 +1,4 @@
-* New Member Projects
+* New Member Projects 
 
 Three new projects joined Conservancy in FY2013:  phpMyAdmin, Buildbot
 and OpenTripPlanner.
@@ -83,5 +83,18 @@ suite, hosted Selenium Conference 2013 in Boston, Massachusetts on June 10-
 12, 2013.  SeConf '13 was Selenium's largest conference yet, attracting
 over 500 attendees from all over the world to network, attend workshops,
 and learn more about the project. 
+
+* Conservancy's Commitment to Students
+
+Once again, Conservancy's member projects have shown their commitment
+to diversity and outreach through involvement with student
+participation programs such as Google Summer of Code, which encourages
+student involved in Free and Open Source software development, as well
+as C++Now, which encourages involvement in the C++ community. Boost,
+Buildbot and Inkscape all participated in Google Summer of Code, with
+well over twenty students participating. Boost also funded seven students
+from five different countries to participate in Boost's C++ Now Conference. 
+Conservancy supports these efforts to bring students into our member 
+projects, as well as the greater FLOSS community.
 
 
