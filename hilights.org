@@ -64,7 +64,7 @@ itself the Mifos Initiative to match its flagship
 project. Conservancy is honored to have played a role in both Mifos
 and the Mifos Initiative's development.
 
-* Conservancy Hosted Conferences
+* Conservancy Hosted Three Conferences
 
 Conservancy and our member projects hosted three projects in FY2013.  The 
 conferences focused on various aspects of FLOSS development and were open 
