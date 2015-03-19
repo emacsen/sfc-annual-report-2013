@@ -1,15 +1,7 @@
-* Conservancy's Member Projects Commitments to Students
-
-Once again, Conservancy's member projects have shown their commitment
-to diversity and outreach through involvement with student
-participation programs such as Google Summer of Code, which encourages
-student involved in Free and Open Source software development, as well
-as C++Now, which encourages involvement in the C++ community. Boost,
-Buildbot and Inkscape all participated in Google Summer of Code, with
-well over twenty students participating. Boost also funded seven students
-from five different countries to participate in Boost's C++ Now Conference. 
-Conservancy supports these efforts to bring students into our member 
-projects, as well as the greater FLOSS community.
+FY2013 was an exciting year for Conservancy and its member projects. With 
+conferences, grants, and a plethora of new releases, our member projects, 
+new and old, continue to expand and improve with each iteration. Below are 
+some of the biggest highlights of the year.
 
 * Boost
 

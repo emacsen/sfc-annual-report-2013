@@ -1,4 +1,4 @@
-* New Member Projects
+* New Member Projects Joined Conservancy
 
 Three new projects joined Conservancy in FY2013:  phpMyAdmin, Buildbot
 and OpenTripPlanner.
@@ -23,7 +23,7 @@ network analysis and prediction modeling, allowing for simulations
 which can be used for design or emergency preparedness. Learn more
 about OpenTripPlanner at http://opentripplanner.org
 
-* Conservancy Launches NPO Accounting Initiative
+* Conservancy Launched NPO Accounting Initiative
 
 In May 2013, Conservancy launched our NPO Accounting Initiative, an effort 
 to spearhead the development of a user-friendly accounting system for non-
@@ -45,7 +45,7 @@ for small-to-medium sized USA-based non-profit organizations -- including
 fiscal sponsors like Conservancy.  For more information about Conservancy's
 NPO Accounting initiative, visit https://sfconservancy.org/npoacct/.
 
-* Conservancy and COSM Announce Mifos Initiative
+* Conservancy and COSM Announced Mifos Initiative
 
 Mifos is an award-winning software project built around providing
 financial services to the poor. In February 2012, Conservancy
@@ -64,7 +64,11 @@ itself the Mifos Initiative to match its flagship
 project. Conservancy is honored to have played a role in both Mifos
 and the Mifos Initiative's development.
 
-* Conservancy Conferences
+* Conservancy Hosted Three Conferences
+
+Conservancy and our member projects hosted three projects in FY2013.  The 
+conferences focused on various aspects of FLOSS development and were open 
+to the public.
 
 The Evergreen project, which maintains a popular integrated library hosting 
 software platform, held its 5th annual conference in Vancouver, British 
@@ -83,5 +87,18 @@ suite, hosted Selenium Conference 2013 in Boston, Massachusetts on June 10-
 12, 2013.  SeConf '13 was Selenium's largest conference yet, attracting
 over 500 attendees from all over the world to network, attend workshops,
 and learn more about the project. 
+
+* Conservancy Displayed Commitment to Students
+
+Once again, Conservancy's member projects have shown their commitment
+to diversity and outreach through involvement with student
+participation programs such as Google Summer of Code, which encourages
+student involved in Free and Open Source software development, as well
+as C++Now, which encourages involvement in the C++ community. Boost,
+Buildbot and Inkscape all participated in Google Summer of Code, with
+well over twenty students participating. Boost also funded seven students
+from five different countries to participate in Boost's C++ Now Conference. 
+Conservancy supports these efforts to bring students into our member 
+projects, as well as the greater FLOSS community.
 
 
