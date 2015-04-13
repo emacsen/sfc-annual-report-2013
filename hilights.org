@@ -3,7 +3,7 @@
 Three new projects joined Conservancy in FY2013:  phpMyAdmin, Buildbot
 and OpenTripPlanner.
 
-phpMyAdmin provides a Free and Open Source web interface for several
+phpMyAdmin provides a FLOSS web interface for several
 popular database platforms, including MySQL, MariaDB and
 Drizzle. phpMyAdmin has been adopted by theousands of web hosting
 companies around the world. Learn more about phpMyAdmin at
@@ -16,7 +16,7 @@ clean, easy and automated way to compile their software, run it
 through automated tests and finally package it up for others to
 use. You can learn more about BuildBot at http://buildbot.net
 
-OpenTripPlanner is a Free/Open Source software for transportation
+OpenTripPlanner is a FLOSS software for transportation
 routing. OTP can provide directions using for car, bike, walking,
 trains and buses for a municipality. It can even do large scale
 network analysis and prediction modeling, allowing for simulations
@@ -47,7 +47,7 @@ NPO Accounting initiative, visit https://sfconservancy.org/npoacct/.
 
 * Conservancy and COSM Announced Mifos Initiative
 
-Mifos is an award-winning software project built around providing
+Mifos is an award-winning FLOSS project built around providing
 financial services to the poor. In February 2012, Conservancy
 assumed stewardship of the project. At the same time, Mifos project
 leaders started their own public charity, the Community for Open
@@ -66,7 +66,7 @@ and the Mifos Initiative's development.
 
 * Conservancy Hosted Three Conferences
 
-Conservancy and our member projects hosted three projects in FY2013.  The 
+Conservancy and our member projects hosted three conferences in FY2013.  The 
 conferences focused on various aspects of FLOSS development and were open 
 to the public.
 
@@ -78,7 +78,7 @@ aimed at end users and another aimed at technical users and developers.
 
 On May 12-17, 2013, the Boost project, maintainers of portable C++ 
 libraries, hosted C++ Now 2013, a conference focusing on discussion and 
-education about open source software usage relating to C++. The conference,
+education about FLOSS usage relating to C++. The conference,
 held in Aspen, Colorado, featured presentations from many of the leading 
 developers in the C++ community.  
 
@@ -93,7 +93,7 @@ and learn more about the project.
 Once again, Conservancy's member projects have shown their commitment
 to diversity and outreach through involvement with student
 participation programs such as Google Summer of Code, which encourages
-student involved in Free and Open Source software development, as well
+student involved in FLOSS development, as well
 as C++Now, which encourages involvement in the C++ community. Boost,
 Buildbot and Inkscape all participated in Google Summer of Code, with
 well over twenty students participating. Boost also funded seven students
