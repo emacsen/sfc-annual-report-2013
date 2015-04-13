@@ -59,7 +59,7 @@ improvements to the visual elements of the software.
 
 * phpMyAdmin
 
-phpMyAdmin is a web interface to several popular database systems
+phpMyAdmin is a FLOSS web interface to several popular database systems
 including mySQL, MariaDB and Drizzle. In FY2013, Conservancy welcomed
 phpMyAdmin to its list of sponsored projects. phpMyAdmin also released a 
 new version of their software which included a significant improvement to
@@ -67,7 +67,7 @@ their web interface.
 
 * Squeak
 
-Squeak is a full-featured programming environment based on the
+Squeak is a full-featured FLOSS programming environment based on the
 Smalltalk programming language. In FY2013, Squeak made a number of
 improvements to its design to allow it to run more easily on low
 powered devices such as the Raspberry Pi, OPLC or PIC
@@ -93,7 +93,7 @@ themselves.
 
 * SWIG
 
-SWIG is a software development tool that connects programs written in
+SWIG is a FLOSS development tool that connects programs written in
 low level languages like C and C++ with a variety of high-level
 programming languages such as as Javascript, Perl, PHP, Python, Tcl
 and Ruby. In FY2013 the SWIG team released version 3.0.0, which included
@@ -102,7 +102,7 @@ nested classes.
 
 * Wine
 
-Wine is a Windows emulator, allowing Windows software to run on other
+Wine is a FLOSS Windows emulator, allowing Windows software to run on other
 platforms such as GNU/Linux and Apple Macs. In July of 2013, after
 sixteen months of development, Wine released version 1.6, which
 included a large number of changes including better Mono (.NET)
