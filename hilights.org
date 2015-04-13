@@ -7,21 +7,21 @@ phpMyAdmin provides a FLOSS web interface for several
 popular database platforms, including MySQL, MariaDB and
 Drizzle. phpMyAdmin has been adopted by theousands of web hosting
 companies around the world. Learn more about phpMyAdmin at
-http://phpmyadmin.net
+http://phpmyadmin.net.
 
 Buildbot is a continuous integration tool that automates the
 build/test/release cycle that developers have to perform so
 often. Using Builtbot saves developers time and energy by providing a
 clean, easy and automated way to compile their software, run it
 through automated tests and finally package it up for others to
-use. You can learn more about BuildBot at http://buildbot.net
+use. You can learn more about BuildBot at http://buildbot.net.
 
 OpenTripPlanner is a FLOSS platform for transportation
 routing. OTP can provide directions using for car, bike, walking,
 trains and buses for a municipality. It can even do large scale
 network analysis and prediction modeling, allowing for simulations
 which can be used for design or emergency preparedness. Learn more
-about OpenTripPlanner at http://opentripplanner.org
+about OpenTripPlanner at http://opentripplanner.org.
 
 * Conservancy Launched NPO Accounting Initiative
 
