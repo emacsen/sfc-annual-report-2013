@@ -22,11 +22,11 @@ automate their development process.
 
 * Darcs
 
-Darcs is an Open Source, cross platform version control system that
+Darcs is an FLOSS cross platform version control system that
 focuses on changes, rather than snapshots, which allows for a freer
 and more streamlined approach to version control.
 
-In FY2013, the Darcs team announced the Darcsden project, an Open Source
+In FY2013, the Darcs team announced the Darcsden project, a FLOSS
 repository hosting platform for Darcs, written in Haskell. It
 currently offers several features like authentication from
 Github/OpenID, password recovery, online repository file editing, and
@@ -49,7 +49,7 @@ to a web application.
 
 * Inkscape
 
-Inkscape is an Open Source vector graphics editor similar to Adobe
+Inkscape is a FLOSS vector graphics editor similar to Adobe
 Illustrator or Corel Draw. What sets Inkscape apart is its use of
 Scalable Vector Graphics (SVG) as its native format. In FY2013, Inkscape
 made significant improvements to the security, stability and
@@ -67,7 +67,7 @@ their web interface.
 
 * Squeak
 
-Squeak is a full featured programming environment based on the
+Squeak is a full-featured programming environment based on the
 Smalltalk programming language. In FY2013, Squeak made a number of
 improvements to its design to allow it to run more easily on low
 powered devices such as the Raspberry Pi, OPLC or PIC
@@ -80,7 +80,7 @@ with embedded processors or robots.
 * Sugar Labs
 
 The Sugar Learning Platform promotes collaborative learning through
-the use of Free/Libre Software tools. Designed from the ground up
+the use of FLOSS tools. Designed from the ground up
 especially for children, Sugar's estimated three million users
 worldwide are offered an alternative to traditional “office-desktop”
 software.
