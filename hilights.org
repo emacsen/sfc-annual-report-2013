@@ -16,7 +16,7 @@ clean, easy and automated way to compile their software, run it
 through automated tests and finally package it up for others to
 use. You can learn more about BuildBot at http://buildbot.net
 
-OpenTripPlanner is a FLOSS software for transportation
+OpenTripPlanner is a FLOSS platform for transportation
 routing. OTP can provide directions using for car, bike, walking,
 trains and buses for a municipality. It can even do large scale
 network analysis and prediction modeling, allowing for simulations
@@ -82,7 +82,7 @@ education about FLOSS usage relating to C++. The conference,
 held in Aspen, Colorado, featured presentations from many of the leading 
 developers in the C++ community.  
 
-The Selenium project, maintainers of a automated browser testing software
+The Selenium project, maintainers of a FLOSS automated browser testing software
 suite, hosted Selenium Conference 2013 in Boston, Massachusetts on June 10-
 12, 2013.  SeConf '13 was Selenium's largest conference yet, attracting
 over 500 attendees from all over the world to network, attend workshops,
