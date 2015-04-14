@@ -15,7 +15,7 @@ OpenTripPlanner to its list of member projects, meaning that each of
 these projects will gain the benefit of Conservancy status, including
 license enforcement.
 
-Conservancy receives hundreds of reports of potential FLOSS license
+Conservancy receives dozens of reports of potential FLOSS license
 violations from the public every year.  We do our best to investigate
 each report, confirm its veracity based on publicly-available information,
 and engage those who we have confirmed are distributing our member 
